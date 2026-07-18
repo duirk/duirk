@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy @duirk (Nadal Ferrá)
 
-### Investigador independiente especializado en la formalización matemática de sistemas complejos y arquitecto de sistemas.
+### Investigador independiente especializado en la formalización matemática de sistemas complejos .
 
 
 ### 🧠 Intereses de Investigación
